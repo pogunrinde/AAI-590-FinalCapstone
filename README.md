@@ -41,6 +41,7 @@ FDA_Project/
 └── requirements.txt     # Dependencies
 
 Current Progress
+
 ✅ Data scraping and extraction from FDA’s open datasets
 
 ✅ Text cleaning and preprocessing (tokenization, stop-word removal, lemmatization)
