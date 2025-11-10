@@ -42,9 +42,13 @@ FDA_Project/
 
 Current Progress
 ✅ Data scraping and extraction from FDA’s open datasets
+
 ✅ Text cleaning and preprocessing (tokenization, stop-word removal, lemmatization)
+
 ✅ Preliminary topic modeling and feature extraction
+
 🔄 Ongoing: Model training and evaluation for regulation-study matching
+
 🔄 Ongoing: Report writing and final presentation preparation
 
 Team & Contributions
