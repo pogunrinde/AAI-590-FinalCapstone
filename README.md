@@ -39,10 +39,10 @@ Project Structure
 FDA_Project:
 - Data: Raw and cleaned datasets
 - Notebooks: Jupyter notebooks for EDA and modeling
-- Scripts/             # Python scripts for scraping, cleaning, and training
-- Outputs/             # Model outputs, plots, and reports
-- README.md            # Project overview (this file)
-- Requirements.txt     # Dependencies
+- Scripts: Python scripts for scraping, cleaning, and training
+- Outputs: Model outputs, plots, and reports
+- README: Project overview (this file)
+- Requirements.txt: Dependencies
 
 Current Progress
 
@@ -59,16 +59,13 @@ Current Progress
 Team & Contributions
 
 This project is being developed collaboratively by:
-Peter Ogunrinde
-Kay Michnicki
-Dominique Fowler
-as part of a class project at the University of San Diego.
+Peter Ogunrinde, Kay Michnicki and Dominique Fowler as part of a class project at the University of San Diego.
 
 Each team member is contributing to different aspects of the project, including:
 FDA data collection - Kay
 Data Exploration - Kay & Peter
 Text preprocessing and data cleaning - Kay & Peter
-Feature engineering and model development TBD
+Feature engineering and model development - TBD
 Analysis, documentation, and reporting TBD
 
 All contributions are collaborative and ongoing. A detailed summary of individual contributions and ownership will be finalized upon completion of the project to ensure proper credit and authorship acknowledgment.
