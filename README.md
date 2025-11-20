@@ -36,14 +36,13 @@ Environment: Jupyter Notebook / Google Colab / Visual Studio Code
 
 Project Structure
 
-FDA_Project/
-│
-├── data/                # Raw and cleaned datasets
-├── notebooks/           # Jupyter notebooks for EDA and modeling
-├── scripts/             # Python scripts for scraping, cleaning, and training
-├── outputs/             # Model outputs, plots, and reports
-├── README.md            # Project overview (this file)
-└── requirements.txt     # Dependencies
+FDA_Project:
+- Data: Raw and cleaned datasets
+- Notebooks: Jupyter notebooks for EDA and modeling
+- Scripts/             # Python scripts for scraping, cleaning, and training
+- Outputs/             # Model outputs, plots, and reports
+- README.md            # Project overview (this file)
+- Requirements.txt     # Dependencies
 
 Current Progress
 
