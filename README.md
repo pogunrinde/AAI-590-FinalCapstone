@@ -52,7 +52,7 @@ Current Progress
 
 ✅ Preliminary topic modeling and feature extraction
 
-🔄 Ongoing: Model training and evaluation for regulation-study matching
+✅ Model training and evaluation for regulation-study matching
 
 🔄 Ongoing: Report writing and final presentation preparation
 
@@ -65,8 +65,8 @@ Each team member is contributing to different aspects of the project, including:
 FDA data collection - Kay
 Data Exploration - Kay & Peter
 Text preprocessing and data cleaning - Kay & Peter
-Feature engineering and model development - TBD
-Analysis, documentation, and reporting TBD
+Model development. Model Training, Machine Learning Methods and Tools  - Kay & Peter
+Analysis, documentation, and reporting -  Kay, Peter, Dominique
 
 All contributions are collaborative and ongoing. A detailed summary of individual contributions and ownership will be finalized upon completion of the project to ensure proper credit and authorship acknowledgment.
 
