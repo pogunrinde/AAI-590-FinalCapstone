@@ -1,8 +1,10 @@
-# AAI-590-FinalCapstone
-Intelligent NLP System for Extracting and Structuring Key Information from FDA Regulatory.
+# Intelligent NLP System for Extracting and Structuring Key Information from FDA Regulatory.
 
-FDA Regulatory Data Analysis & Modeling
-University of San Diego — Class Project
+AAI-590 Capstone Project - University of San Diego
+
+This project is part of the AAI-590 Capstone in the Applied Artificial Intelligence Program at the University of San Diego (USD). It focuses on building machine learning and deep learning models to triage FDA adverse event reports and drug recalls using natural language processing.
+
+### -- Project Status: Active / Near Completion (Module 7)
 
 Project Overview
 
