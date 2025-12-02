@@ -43,7 +43,7 @@ The main purpose of this project is to build a **regulatory triage assistant** f
 - For **adverse events**, the model predicts whether a case report is likely to be **serious**, so that safety teams can prioritize review.
 - For **drug recalls**, the model predicts **recall class (I / II / III)** from the free-text reason for recall.
 
-In practice, companies often receive unstructured narratives—adverse reaction descriptions, internal quality deviations, and draft recall text—before they have a clear mapping to FDA requirements. Our pipeline takes these narratives, learns patterns from historical data, and outputs risk-oriented predictions that can drive faster escalation and review.
+In practice, companies often receive unstructured narratives adverse reaction descriptions, internal quality deviations, and draft recall text before they have a clear mapping to FDA requirements. Our pipeline takes these narratives, learns patterns from historical data, and outputs risk-oriented predictions that can drive faster escalation and review.
 
 Long term, this work is a stepping stone toward automatically **linking violations to specific FDA regulations and guidance documents**. For this capstone, we focus on classification tasks that are well supported by the available Kaggle/FDA data.
 
@@ -132,7 +132,7 @@ aai590-reginsightai/
 Project Overview
 
 This project explores how publicly available FDA data can be used to analyze, model, and understand regulatory activities related to drugs, biologics, and medical devices.
-The primary goal is to clean, structure, and model FDA datasets to identify relationships between regulations, recalls, and adverse events — and to explore whether machine learning techniques can predict which regulations may apply to a given product or study type.
+The primary goal is to clean, structure, and model FDA datasets to identify relationships between regulations, recalls, and adverse events and to explore whether machine learning techniques can predict which regulations may apply to a given product or study type.
 This work aims to build a foundation for an intelligent search and recommendation system that links study requirements or product features to relevant FDA regulations and guidance documents.
 
 #### Datasets
@@ -205,7 +205,8 @@ Run all cells from top to bottom to reproduce:
 To support grading, also export the notebook to PDF (already included as finalCapstone_group2.pdf).
 
 ---
-Current Progress
+
+**Current Progress**
 
 ✅ Data scraping and extraction from FDA’s open datasets
 
@@ -218,12 +219,14 @@ Current Progress
 🔄 Ongoing: Report writing and final presentation preparation
 
 
+
 **License & Usage**
 
 This repository is for academic and educational use as part of a class project at the University of San Diego.
 All contributors retain ownership of their individual work and original code developed during this project.
 After the course concludes, contributors may continue developing their own versions, extensions, or derivative projects independently, provided they do not use another contributor’s specific code or proprietary content without permission.
 The data used in this project are publicly available from FDA’s OpenFDA API and related sources.
+
 
 
 **Acknowledgments**
