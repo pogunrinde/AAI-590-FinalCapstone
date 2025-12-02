@@ -127,7 +127,7 @@ aai590-reginsightai/
 │  └─ analysis_utils.py               # (Optional) ROC/PR/confusion matrix utilities
 └─ reports/
    └─ AAI590_Final_Report.pdf         # Final written report (Part 1)
-
+```
 
 Project Overview
 
@@ -143,6 +143,7 @@ Recalls and Enforcement Reports
 Adverse Events Data
 All data are publicly available and used strictly for academic and non-commercial purposes.
 ---
+
 ## How to Install and Run
 **1. Clone the Repository**
 ```
@@ -151,6 +152,7 @@ cd AAI-590-FinalCapstone
 
 ```
 ---
+
 ## How to Install and Run
 **2. Create and Activate an Environment**
 ``` Using pip:
