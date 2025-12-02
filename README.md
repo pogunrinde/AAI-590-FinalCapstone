@@ -135,7 +135,7 @@ This project explores how publicly available FDA data can be used to analyze, mo
 The primary goal is to clean, structure, and model FDA datasets to identify relationships between regulations, recalls, and adverse events and to explore whether machine learning techniques can predict which regulations may apply to a given product or study type.
 This work aims to build a foundation for an intelligent search and recommendation system that links study requirements or product features to relevant FDA regulations and guidance documents.
 
-#### Datasets
+**Datasets**
 
 We use open FDA datasets from the OpenFDA API, including:
 Regulatory and Guidance Documents (Drugs, Devices, Biologics)
