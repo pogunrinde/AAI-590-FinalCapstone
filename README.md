@@ -225,6 +225,7 @@ The data used in this project are publicly available from FDA’s OpenFDA API an
 
 
 **Acknowledgments**
+
 We would like to thank:
 - Course instructor and teaching staff for guidance on project scope, feedback on drafts, and clarification of requirements.
 - The MS-AAI program at the University of San Diego for providing the capstone structure and README template guidance.
